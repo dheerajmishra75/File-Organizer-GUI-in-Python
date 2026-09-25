@@ -6,7 +6,7 @@ The project uses Tkinter for folder selection and Python's file-system modules t
 
 ## 🎥 Preview
 
-[▶️ Watch File Organizer GUI Preview](./Preview_video/File%20Organizer%20By%20Gui.mp4)
+[▶️ Watch Project Demo](./Preview/File%20Organizer%20By%20Gui.mp4)
 
 The preview demonstrates selecting a folder and automatically organizing its files into categories such as Images, Documents, Archives, and other supported file types.
 
